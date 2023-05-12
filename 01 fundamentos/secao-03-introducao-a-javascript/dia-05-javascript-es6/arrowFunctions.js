@@ -13,3 +13,4 @@ console.log(printName2());
 //3 >>
 const printName3 = () => 'Lucas';
 console.log(printName3());
+
