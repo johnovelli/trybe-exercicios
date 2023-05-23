@@ -1,0 +1,10 @@
+#foto {
+  width: 120px;
+  height: 120px;
+  margin-left: 0;
+}
+
+.identify {
+  width: 50%;
+  display: inline-block;
+}
